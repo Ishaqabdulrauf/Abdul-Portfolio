@@ -1,0 +1,30 @@
+body , html{
+    background-color: #eaf6f6;
+    overflow-x: hidden;
+  }
+h1,h2,h3 {
+    color: #66BFBF;
+}
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #e9eceb;
+    border-width: 10px;
+    width: 3%;
+  }
+
+  img {
+    border-radius: 50%;
+    width: px;
+    height: 200px;
+    border-style: inset outset;
+  }
+  .footer {
+        color: #89B9AD; 
+        bottom:0; 
+        width:100%; 
+        min: height 100px;px; 
+        text-align: center;
+        padding: 20px 80px;
+      }
